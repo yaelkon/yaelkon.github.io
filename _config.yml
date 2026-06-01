@@ -16,10 +16,10 @@ timezone: Europe/London
 
 title: Yael Konforti # the main title
 
-tagline: First-Year PhD Candidate, Department of Computer Science, University of Cambridge # it will display as the subtitle
+tagline: Second-Year PhD Candidate, Department of Computer Science, University of Cambridge # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  PhD researcher at the University of Cambridge investigating algorithmic bias mitigation in AI systems using explainable AI (XAI) techniques.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,7 +29,7 @@ github:
   username: yaelkon # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username:
 
 social:
   # Change to your full name.
@@ -38,11 +38,8 @@ social:
   email: yk449@cam.ac.uk # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/yaelkonforti/ # change to your Twitter homepage
-    - https://github.com/yaelkon # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/yaelkonforti/
+    - https://github.com/yaelkon
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,7 +95,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/profile_pic.jpeg /assets/img/profile_pic.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
