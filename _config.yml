@@ -16,7 +16,7 @@ timezone: Europe/London
 
 title: Yael Konforti # the main title
 
-tagline: Second-Year PhD Candidate, Department of Computer Science, University of Cambridge # it will display as the subtitle
+tagline: A PhD Candidate, Department of Computer Science, University of Cambridge # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   PhD researcher at the University of Cambridge investigating algorithmic bias mitigation in AI systems using explainable AI (XAI) techniques.
