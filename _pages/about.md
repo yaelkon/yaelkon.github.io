@@ -2,33 +2,49 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  PhD Candidate · <a href="https://www.cl.cam.ac.uk/">Department of Computer Science and Technology</a> · University of Cambridge
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Supervised by <a href="https://www.cl.cam.ac.uk/~mj201/">Prof. Mateja Jamnik</a></p>
+    <p>and <a href="https://mateoespinosa.github.io/">Dr. Mateo Espinosa Zarlenga</a></p>
+    <p>St Edmund's College, Cambridge, UK</p>
+    <p>yk449@cam.ac.uk</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: false
+  limit: 4
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student at the University of Cambridge, supervised by [Prof. Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/) and [Dr. Mateo Espinosa Zarlenga](https://mateoespinosa.github.io/). I am affiliated with [St Edmund's College](https://www.st-edmunds.cam.ac.uk/) and the [Department of Computer Science and Technology](https://www.cl.cam.ac.uk/). I study how interpretability methods, especially concept-based ones, can expose the vulnerabilities of AI models and make them more reliable and safe to deploy.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before my PhD, I spent several years in industry — as a Research Scientist at SightX, building real-time object detectors and their evaluation protocols, and as an ML Researcher at BioMedSU, working on drug discovery from RNA-seq data.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Research
+
+I am interested in the internal representations of AI models, when models fail, and how interpretability can help us understand why and fix it:
+
+- **Discovering and explaining failure modes:** using human-understandable concepts to identify subpopulations on which a model underperforms, and to understand why \[[CB-SLICE](/publications/)\].
+- **Removing spurious concepts:** using sparse autoencoders to detect spurious concepts inside trained models and mask them out (ongoing).
+- **Understanding model internals:** modelling the inference path that an image, or a whole class, takes through the network as a probabilistic decision chain of visual words \[[Inference Graphs](/publications/)\] \[[SIGN](/publications/)\].
+
+I'm open to advising MPhil projects on interpretability and bias mitigation. Cambridge students, please see [this link](https://www.cl.cam.ac.uk/~mj201/teaching/student-projects.html) for details.
+
+## Education
+
+**Ph.D. student** · Computer Science and Technology, University of Cambridge
+
+**M.Sc. 2019** · Engineering (Applied Statistics), Ben-Gurion University · Honors Program
+
+**B.Sc. 2018** · Engineering, Ben-Gurion University · cum laude
