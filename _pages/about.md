@@ -23,6 +23,8 @@ latest_posts:
   enabled: false
 ---
 
+## About
+
 I am a PhD student at the University of Cambridge, supervised by [Prof. Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/) and [Dr. Mateo Espinosa Zarlenga](https://mateoespinosa.github.io/). I am affiliated with St Edmund's College and the Department of Computer Science and Technology. I study how interpretability methods, especially concept-based ones, can expose the vulnerabilities of AI models and make them more reliable and safe to deploy.
 
 Before my PhD, I spent several years in industry — as a Research Scientist at SightX, building real-time object detectors and their evaluation protocols, and as an ML Researcher at BioMedSU, working on drug discovery from RNA-seq data.
