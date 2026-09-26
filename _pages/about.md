@@ -8,14 +8,11 @@ subtitle: >
   PhD Candidate · <a href="https://www.cl.cam.ac.uk/">Department of Computer Science and Technology</a> · University of Cambridge
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Supervised by <a href="https://www.cl.cam.ac.uk/~mj201/">Prof. Mateja Jamnik</a></p>
-    <p>and <a href="https://mateoespinosa.github.io/">Dr. Mateo Espinosa Zarlenga</a></p>
-    <p>St Edmund's College, Cambridge, UK</p>
-    <p>yk449@cam.ac.uk</p>
+    <p>PhD Student · Computer Science Department · University of Cambridge</p>
 
 selected_papers: false
 social: true
