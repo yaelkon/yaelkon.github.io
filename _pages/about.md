@@ -10,6 +10,10 @@ profile:
   image_circular: false
   more_info: >
     <p>AI Safety PhD Student · University of Cambridge</p>
+    <br>
+    <p><strong>Ph.D. (ongoing)</strong><br>Computer Science and Technology<br>University of Cambridge</p>
+    <p><strong>M.Sc. 2019</strong><br>Engineering (Applied Statistics)<br>Ben-Gurion University<br><em>Honors Program</em></p>
+    <p><strong>B.Sc. 2018</strong><br>Engineering<br>Ben-Gurion University<br><em>cum laude</em></p>
 
 selected_papers: false
 social: true
@@ -39,10 +43,3 @@ I am interested in the internal representations of AI models, when models fail, 
 
 🎺 I'm open to advising MPhil projects on interpretability and bias mitigation.<br>Cambridge students, please see [this link](https://www.cl.cam.ac.uk/~mj201/teaching/student-projects.html) for details.
 
-## Education
-
-**Ph.D. (ongoing)**<br>Computer Science and Technology, University of Cambridge
-
-**M.Sc. 2019**<br>Engineering (Applied Statistics), Ben-Gurion University<br>*Honors Program*
-
-**B.Sc. 2018**<br>Engineering, Ben-Gurion University<br>*cum laude*
