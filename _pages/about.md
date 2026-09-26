@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: >
-  PhD Candidate · <a href="https://www.cl.cam.ac.uk/">Department of Computer Science and Technology</a> · University of Cambridge
+subtitle:
 
 profile:
   align: left
