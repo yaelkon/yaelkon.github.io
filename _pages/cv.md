@@ -10,6 +10,11 @@ nav_order: 3
   <a href="/assets/pdf/cv.pdf" download class="btn btn-sm z-depth-0" role="button">Download CV</a>
 </div>
 
-<div style="width: 100%; height: 85vh;">
-  <iframe src="/assets/pdf/cv.pdf" width="100%" height="100%" style="border: none;"></iframe>
+<div style="width: 100%; height: 90vh;">
+  <iframe
+    src="https://docs.google.com/viewer?url=https://yaelkon.github.io/assets/pdf/cv.pdf&embedded=true"
+    width="100%"
+    height="100%"
+    style="border: none;"
+  ></iframe>
 </div>
