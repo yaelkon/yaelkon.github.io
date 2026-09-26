@@ -17,7 +17,7 @@ nav_order: 2
     display: grid;
     grid-template-columns: 3.5rem 1fr;
     column-gap: 2rem;
-    row-gap: 0.5rem;
+    row-gap: 1.5rem;
     align-items: start;
   }
   .publications > h2 {
@@ -26,13 +26,17 @@ nav_order: 2
     font-size: 1rem;
     font-weight: bold;
     margin: 0;
-    padding-top: 0.3rem;
+    padding: 0;
+    align-self: start;
   }
   .publications > ol.bibliography {
     grid-column: 2;
     margin: 0;
     padding-left: 0;
     list-style: none;
+  }
+  .publications > ol.bibliography li {
+    margin-bottom: 0;
   }
 </style>
 
