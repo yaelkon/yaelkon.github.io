@@ -42,8 +42,8 @@ I'm open to advising MPhil projects on interpretability and bias mitigation. Cam
 
 ## Education
 
-**Ph.D. student** · Computer Science and Technology, University of Cambridge
+**Ph.D. (ongoing)**<br>Computer Science and Technology, University of Cambridge
 
-**M.Sc. 2019** · Engineering (Applied Statistics), Ben-Gurion University · Honors Program
+**M.Sc. 2019**<br>Engineering (Applied Statistics), Ben-Gurion University<br>*Honors Program*
 
-**B.Sc. 2018** · Engineering, Ben-Gurion University · cum laude
+**B.Sc. 2018**<br>Engineering, Ben-Gurion University<br>*cum laude*
