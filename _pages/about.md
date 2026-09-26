@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>AI Safety PhD Student · University of Cambridge</p>
-    <br>
+  education: >
     <p><strong>Ph.D. (ongoing)</strong><br>Computer Science and Technology<br>University of Cambridge</p>
     <p><strong>M.Sc. 2019</strong><br>Engineering (Applied Statistics)<br>Ben-Gurion University<br><em>Honors Program</em></p>
     <p><strong>B.Sc. 2018</strong><br>Engineering<br>Ben-Gurion University<br><em>cum laude</em></p>
