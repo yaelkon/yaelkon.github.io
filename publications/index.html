@@ -22,7 +22,7 @@
     display: grid;
     grid-template-columns: 3.5rem 1fr;
     column-gap: 2rem;
-    row-gap: 0.5rem;
+    row-gap: 1.5rem;
     align-items: start;
   }
   .publications > h2 {
@@ -31,13 +31,17 @@
     font-size: 1rem;
     font-weight: bold;
     margin: 0;
-    padding-top: 0.3rem;
+    padding: 0;
+    align-self: start;
   }
   .publications > ol.bibliography {
     grid-column: 2;
     margin: 0;
     padding-left: 0;
     list-style: none;
+  }
+  .publications > ol.bibliography li {
+    margin-bottom: 0;
   }
 </style> <script src="/assets/js/bibsearch.js?v=1bc438ca9037884cc579601c09afd847" type="module"></script> <p><input type="text" id="bibsearch" spellcheck="false" autocomplete="off" class="search bibsearch-form-input" placeholder="Type to filter"></p> <div class="publications"> <h2 class="bibliography">2026</h2> <ol class="bibliography"><li> <div class="row"> <div class="col col-sm-2 abbr"> </div> <div id="konforti2026cbslice" class="col-sm-8"> <div class="title">CB-SLICE: Concept-Based Interpretable Error Slice Discovery</div> <div class="author"> <em>Yael Konforti</em>, Mateo Espinosa Zarlenga, Elaf Almahmoud, and <span class="more-authors" title="click to view 1 more author" onclick=" var element=this; element.setAttribute('title', ''); var more_authors_text=element.textContent == '1 more author' ? 'Mateja Jamnik' : '1 more author'; var cursorPosition=0; var textAdder=setInterval(function(){ element.innerHTML = more_authors_text.substring(0, cursorPosition + 1); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">1 more author</span> </div> <div class="periodical"> <em>In Proceedings of the 43rd International Conference on Machine Learning</em>, 2026 </div> <div class="periodical"> To appear </div> <div class="links"> <a href="http://arxiv.org/abs/2605.2983" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a> <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a> </div> <div class="bibtex hidden"> <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">konforti2026cbslice</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{{CB-SLICE}: Concept-Based Interpretable Error Slice Discovery}</span><span class="p">,</span>
