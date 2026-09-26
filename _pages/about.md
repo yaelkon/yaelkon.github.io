@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Interpretability & Fairness PhD Student · University of Cambridge</p>
+    <p>AI Safety PhD Student · University of Cambridge</p>
 
 selected_papers: false
 social: true
