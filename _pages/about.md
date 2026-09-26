@@ -1,6 +1,8 @@
 ---
 layout: about
 title: about
+nav: true
+nav_order: 1
 permalink: /
 subtitle: >
   PhD Candidate · <a href="https://www.cl.cam.ac.uk/">Department of Computer Science and Technology</a> · University of Cambridge
