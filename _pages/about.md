@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>AI Safety PhD Student · University of Cambridge</p>
+    <p>AI Safety PhD Student<br>University of Cambridge</p>
   education: >
     <h2><strong>Education</strong></h2>
     <p><strong>Ph.D. (ongoing)</strong><br>Computer Science and Technology<br>University of Cambridge</p>
