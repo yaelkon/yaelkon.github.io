@@ -36,10 +36,10 @@ Before my PhD, I spent several years in the industry as a Research Scientist at 
 
 ## Research
 
-I am interested in the internal representations of AI models, when models fail, and how interpretability can help us understand why and fix it:
+I am interested in the internal representations of AI models, where models fail, and how interpretability can help us understand why and fix it:
 
-- *Discovering and explaining failure modes:* using human-understandable concepts to identify subpopulations on which a model underperforms, and to understand why \[[CB-SLICE](/publications/#konforti2026cbslice)\].
-- *Removing spurious concepts:* using sparse autoencoders to detect spurious concepts inside trained models and mask them out (ongoing).
+- *Discovering and explaining failure modes:* identifying subpopulations on which the model underperforms, using human-understandable concepts, and explaining the root causes of the failures \[[CB-SLICE](/publications/#konforti2026cbslice)\].
+- *Removing spurious concepts:* using sparse autoencoders to identify and suppress spurious embeddings of trained models (ongoing).
 - *Understanding model internals:* modelling the inference path that an image, or a whole class, takes through the network as a probabilistic decision chain of visual words \[[Inference Graphs](/publications/#konforti2020inference)\] \[[SIGN](/publications/#konforti2022sign)\].
 
 🎺 I'm open to advising MPhil projects on interpretability and bias mitigation.<br>Cambridge students, please see [this link](https://www.cl.cam.ac.uk/~mj201/teaching/student-projects.html) for details.
