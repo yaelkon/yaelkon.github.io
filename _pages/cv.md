@@ -32,7 +32,7 @@ nav_order: 3
 </style>
 
 <div class="cv-wrapper">
-  <a href="/assets/pdf/cv.pdf" download class="cv-download-btn" role="button">Download CV</a>
+  <a href="/assets/pdf/cv.pdf" download="Yael_Konforti_CV.pdf" class="cv-download-btn" role="button">Download CV</a>
   <div style="width: 100%; height: 90vh; padding-top: 2.5rem;">
     <iframe
       src="https://docs.google.com/viewer?url=https://yaelkon.github.io/assets/pdf/cv.pdf&embedded=true"
